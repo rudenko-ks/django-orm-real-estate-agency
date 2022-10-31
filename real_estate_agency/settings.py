@@ -92,6 +92,7 @@ USE_THOUSAND_SEPARATOR = True
 THOUSAND_SEPARATOR = '&nbsp;'
 
 USE_TZ = True
+USE_L10N = True
 
 STATIC_URL = '/static/'
 
